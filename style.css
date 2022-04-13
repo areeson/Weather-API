@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(/images/background.JPG);
+    background-color: rgb(0, 159, 159);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
